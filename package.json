@@ -1,0 +1,36 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristina-argentina-code/WEB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristina-argentina-code/WEB/issues"
+  },
+  "homepage": "https://github.com/kristina-argentina-code/WEB#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.2",
+    "dev": "^0.1.3",
+    "npm": "^7.20.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.27.4",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.35.2"
+  },
+  "optionalDependencies": {
+    "fsevents": "^2.3.2"
+  }
+}
